@@ -2,7 +2,7 @@
 Log new messages from certain channels into a file.
 
 # Note:
-Automating user accounts is against the Discord ToS. This library is a proof of concept and I cannot recommend using it. Do so at your own risk.
+Automating user accounts is against the Discord ToS. This script is for educational purposes only and I cannot recommend using it. Do so at your own risk.
 This script uses the [discord.py-self](https://github.com/dolfies/discord.py-self) library.
 
 # Usage:
